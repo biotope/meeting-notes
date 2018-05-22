@@ -1,3 +1,3 @@
 # Biotope Meeting Notes
 
-A collection if meeting notes from the biotope core teams.
+A collection of meeting notes from the biotope core teams.
