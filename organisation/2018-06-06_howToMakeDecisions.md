@@ -17,16 +17,21 @@ Our current proposal for a organisational setup is, that we will have three dedi
 
 1. The captain
 This person will manage the whole budget pool for all of biotope and will make sure, the overall project heads in the right direction.
+__Finance and vision__
 
 2. The officers
-These persons will be given a small cut of the budget to decide on how to separate this budget over the different projects.
+These persons will be given a small cut of the budget to decide on how to spend this budget over the different projects.
+She makes sure the project head in the right direction to fit the overall vision and that the set goals are reached.
+__Strategy, budget and new features__
 
 3. The navigators
-These persons are experienced in the distinct projects and can ship the progress in the right directions. These are the first go-tos for questions.
+These persons are biotope experts and can ship the progress in the right directions. These are the first go-tos for questions.
+__Architecture, technology and code reviews__
 
 
 Every project (boilerplate, build, generator, etc.) should have one officer and one navigator assigned to it.
 One navigator/officer can have multiple projects she cares for.
 
+To make sure every role knows what she needs to know, there will be a monthly steering meeting with all officers and the captain to navigate on (time, budget, quality, next steps).
 
 This structure shall be kept until the projects work on their own.
