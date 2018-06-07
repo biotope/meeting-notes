@@ -1,23 +1,22 @@
-Biotope ist ein Framework das es ermöglicht UI Komponenten zu entwickeln, die losgelöst von Technologien eingesetzt werden können.
-
--	Sauberer Code zu produzieren
--	Komponenten nach einheitlichen Standards zu Entwickeln
--	Interoperabilität 
--	It is easy
--	Works with web standards
--	Keep focus on creating the components, dont care about infrastrcutre
--	Make it easy to work with a team of many developers even people not knowing each other
--	Code is single source of truth. real projects and the styleguide use same code.
--	Create your own ui library to chose from in projects
+##Biotope is a framework and architecture which enables you to develop technology and cms independent frontend component libraries
 
 
--	Cetralized library of UI componnts which can be maintained in a single point
--	BUT all components can be used independently in web projects.
--	Even with starting to build one component we start building an ecosystem
--	Make it possbile to maintain the ui library with different partners without compatiblity & quality issues
--	Bring your design system to live. Real usable code, not dummy html components.
+#It helps developers to:
+- produce clean and state of the art frontend code
+- develope ui-components on a unified standard and with latest web standards
+- keep focus on developing components, the architecture and dev environment is provided by Biotope.
+- make it easy to work with a team of many developers on the same component library
+- ensure high quality standards for the whole library even when developed by multiple developers
+- build real projects and design system styleguides with a single code source
+- create your own ui library to chose from in your projects
+- use Biotope ui-components in single page applications as well as in traditional server side renderd cms
+
+
+#It helps companies to:
+- Create a UI component library which can be maintained in a central place
+- BUT all ui-components can be used independently in different projects
+- Create UI consistency over all projects
+- Make it possbile to let multiple partners contribute to the ui library without compatiblity & quality issues
+-	Bring their Design System to live. Real usable code, no dummy html components in a seperate styleguide tool.
 -	Doesnt matter how big the component library gets. Projects only use components they need. So performance stays high.
-
-Biotope Infrastructure:
--	Versionierung
--	Direkt aufs CDN
+- Maintain and extend the ui library over years without the need for a relaunch
