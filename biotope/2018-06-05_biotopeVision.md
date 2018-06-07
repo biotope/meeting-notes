@@ -1,7 +1,7 @@
-##Biotope is a framework and architecture which enables you to develop technology and cms independent frontend component libraries
+# Biotope is a framework and architecture which enables you to develop technology and cms independent frontend component libraries
 
 
-#It helps developers to:
+## It helps developers to:
 - produce clean and state of the art frontend code
 - develope ui-components on a unified standard and with latest web standards
 - keep focus on developing components, the architecture and dev environment is provided by Biotope.
@@ -12,7 +12,7 @@
 - use Biotope ui-components in single page applications as well as in traditional server side renderd cms
 
 
-#It helps companies to:
+## It helps companies to:
 - Create a UI component library which can be maintained in a central place
 - BUT all ui-components can be used independently in different projects
 - Create UI consistency over all projects
