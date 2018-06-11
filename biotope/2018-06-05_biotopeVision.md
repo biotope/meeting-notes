@@ -1,4 +1,4 @@
-# Biotope is a framework which enables you to develop scalabale, technology independent frontend component ecosystems
+# Biotope is a framework which enables you to develop scalabale, platform-agnostic frontend component ecosystems
 
 ## It helps developers to:
 - easily develop ui-components following a unified standard
