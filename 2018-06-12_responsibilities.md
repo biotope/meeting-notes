@@ -1,45 +1,33 @@
 # Projects
 
-- Platform Agnostic Webcomponents
-
-Officer:
-
-Navigator:
+### Platform Agnostic Webcomponents
+- Officer:
+-Navigator:
 
 
-- Rehydrate "Adapter" for static rendering websites
-
-Officer:
-
-Navigator:
+### Rehydrate "Adapter" for static rendering websites
+- Officer:
+-Navigator:
 
 
-- New Component Core & Headless Service Connector
-
-Officer:
-
-Navigator:
+### New Component Core & Headless Service Connector
+- Officer:
+-Navigator:
 
 
-- Microfrontends Deployment & Loading Process
-
-Officer: 
-
-Navigator:
+### Microfrontends Deployment & Loading Process
+- Officer:
+-Navigator:
 
 
-- Biotope Styleguide
-
-Officer:
-
-Navigator: 
+### Biotope Styleguide
+- Officer:
+-Navigator:
 
 
-- Biotope Default Theme
-
-Officer:
-
-Navigator:
+### Biotope Default Theme
+- Officer:
+-Navigator:
 
 
 # Repos
