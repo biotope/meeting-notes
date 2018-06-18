@@ -24,7 +24,7 @@ Definition Ecosystem vs. Ecosystem Framework (was ist biotope).
 -	Doesnt matter how big the component library gets. Projects only use components they need. So performance stays high.
 - Maintain and extend the ui library over years to avoid getting out-of-date and having to start from scratch again.
 
-Draft:
+
 ## It helps designers to:
 - Showcase their design systems in an always up to date living styleguide
 - ...
