@@ -1,8 +1,10 @@
 # Biotope is a framework which enables you to develop scalabale, platform-agnostic frontend component ecosystems
 
-// Insert short version
+## Definition Ecosystem vs. Ecosystem Framework:
 
-Definition Ecosystem vs. Ecosystem Framework (was ist biotope).
+- A component ecosystem is a pool of components which can be used in any combination to build your websites or webaaplications user interface. The same components can be used in 1-n projects.
+
+- An ecosystem framework helps you building such an ecosystem and makes sure all components play well with each other, you get an overview over all components in the pooland information how to use them.
 
 ## It helps developers to:
 - Build your UI components once and use them together with vanilla javascript or the js framework of your choice, in single page applications as well as in traditional server side rendered cms projects.
@@ -24,8 +26,8 @@ Definition Ecosystem vs. Ecosystem Framework (was ist biotope).
 
 
 ## It helps designers to:
-- Showcase their design systems in an always up to date living styleguide
-- ...
+- Showcase their design systems in an always up to date living styleguide.
+- Have a single point of truth for the components available how they work and how they look.
 
 
 ## Developing Biotope
