@@ -4,7 +4,7 @@
 
 ## Agenda:
 1. Dependency chart
-2. Clarify pen questions
+2. Clarify open questions
 3. Roadmap for the next half a year (developer feedback)
 
 ## 1. Dependency chart
