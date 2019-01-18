@@ -31,7 +31,7 @@ __Q__: Who will take care of the branding (logo, social media)?
 __A__: We commited on a first step: @jurekbarth will take care of creation of logo and 2-3 color plus a font  
 <hr>
 
-__Q__: When will we start working on biotope.sh?
+__Q__: When will we start working on biotope.sh?  
 __A__: Now (with planning next steps in biweekly)
 <hr>
 
