@@ -7,7 +7,7 @@
 - tickets reordered
 - reassigned some of them
 - not much happened
-- @tiagomapmarques we want the build branches deleted until next week
+- @tiagomapmarques we want to implement the Promise.catch ticket until next week
 
 ## 2. Styleguide
 - we will have a sprint next week
