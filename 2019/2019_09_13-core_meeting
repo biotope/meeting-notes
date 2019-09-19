@@ -1,0 +1,31 @@
+Participants: @tiagomapmarques @SheepFromHeaven @dannystey
+
+# Agenda
+
+1. Update Build
+2. Update Element
+3. Open task
+4. Omit breaking PRs
+
+## Update Build
+- We will have a build system with steps defined as array of plugins
+- Each buildstep is a plugin
+- We have the feeling the goal of october is at risk
+- Still a lot of open steps for "older" projects
+
+## Update Element
+- We need to add migration guide for new version
+- Versioned docs will be added there
+
+## Open tasks
+We noticed the tasks we define in these meetings, do not get resolved.
+We now alwas create an issue for each tasks, which will make it easier to navigate on that.
+
+## Breaking PRs
+We do not want to validate based on commits, but rather on a PR level.
+To enforce that, we will integrate PR templates which contain:
+- Breaking
+- Features
+- Fixes
+- Documented
+- Tested
